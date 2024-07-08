@@ -2,14 +2,15 @@
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML).
 
-### 5. Resultados das Análises e Processo de Realização
+### Resultados das Análises e Processos de Realização
 
 -  Usei o 'dataset-1000-com-preco-variavel'
 -  Em seguida criei um DataSet com o SageMaker Canvas
--  Adicionei algumas configurações de trinamento para o modelo
+-  Realizei o treinamento e configurações do modelo
 -  Análisei os resultados apresentados
--  
-
-## 🤔 Dúvidas?
-
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+-  Os resultados foram:
+-  Avg. wQL = 1000
+-  MAPE = 1000
+-  WAPE = 1000
+-  RMSE = 1.133
+-  MASE = 0.131
